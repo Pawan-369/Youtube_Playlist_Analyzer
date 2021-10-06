@@ -1,4 +1,4 @@
-# Q. You are given link of a youtube playlist. Furnish following details 
+# By using any link of a youtube playlist. Furnishing following details 
  title
  total videos
  actual videos  
